@@ -9,8 +9,6 @@
 <style>
 body {
 background-image: url('images/chant_class_background.jpg');
-height: 200%;
-  width: 200%;
   <!--background-image: url('images/background02.jpg');-->
   <!--background-image: url('images/chant_class_background.jpg');-->
 }
@@ -38,7 +36,18 @@ height: 200%;
 
 <BR>
 <BR>
-
+<center>
+<table border="1" style="width:70%;border:solid black;">
+  <tr><td colspan=7><center><B>Media</B></center></td></tr>
+  <tr>
+            <td colspan=1>Uploaded February 9, 2025</td>
+            <td colspan=3><b><center><a href="https://rumble.com/v6inyl4-learn-byzantine-chant-for-beginners-class-1.html">Class 1</a></center></b></td>
+            <td colspan=3><b>Class 1 presentation (Jan.25,2025)</b></td>
+  </tr>
+  </table>
+</center>
+<BR>
+<BR>
 <center>
 <table border="1" style="width:70%;border:solid black;">
   <tr><td colspan=7><center><B>Resources</B></center></td></tr>
