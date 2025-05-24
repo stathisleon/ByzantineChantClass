@@ -19,6 +19,8 @@ background-image: url('images/chant_class_background.jpg');
   <!--<IMG src="https://stathisleon.github.io/ByzantineChant/images/TITLE.png"></IMG>-->
   <center><IMG src="images/TITLE.png" style="max-width: 150%;"></IMG></center>
 
+
+
 <center>
 <table border="1" style="width:70%;border:solid black;">
   <tr><td colspan=7><center><B>Sign up</B></center></td></tr>
@@ -42,7 +44,7 @@ background-image: url('images/chant_class_background.jpg');
   <tr>
             <td colspan=1>Uploaded February 9, 2025</td>
             <td colspan=3><b><center><a href="https://rumble.com/v6inyl4-learn-byzantine-chant-for-beginners-class-1.html">Class 1</a></center></b></td>
-            <td colspan=3><b>Class 1 presentation (Jan.25,2025)</b></td>
+            <td colspan=3><b>Presentation (Jan.25,2025)</b></td>
   </tr>
   </table>
 </center>
@@ -79,6 +81,11 @@ background-image: url('images/chant_class_background.jpg');
   </table>
 </center>
 
+Choir materials (for staff notation readers) can be found <a href="https://stathisleon.github.io/">here</a>.
+
+<BR>
+
+<BR>
 </FONT>
 </body>
 <!--http://www.byzantinechant.org/notation/Table%20of%20Byzantine%20Notation%20Symbols.pdf-->
