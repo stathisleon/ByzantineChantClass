@@ -19,22 +19,14 @@ background-image: url('images/chant_class_background.jpg');
   <!--<IMG src="https://stathisleon.github.io/ByzantineChant/images/TITLE.png"></IMG>-->
   <center><IMG src="images/TITLE.png" style="max-width: 150%;"></IMG></center>
 
-<B>Calendar of events:</B> <a href="chant_calendar_2026_janb.html">January 2026</a> 
+<B>Calendar of events:</B> <a href="chant_calendar_2026_feb.html">February 2026</a> 
 
 <BR><BR>
 
 <center>
 <table border="1" style="width:70%;border:solid black;">
-  <tr><td colspan=7><center><B>Sign up</B></center></td></tr>
-  <tr>
-            <td colspan=1>Uploaded January 18, 2025</td>
-            <td colspan=3><b><center><a href="https://mcusercontent.com/7cf5c8bb5f0d984f8ef3513b0/images/37032b14-b21f-eab6-6258-439c2987496c.jpg">Flier</a></center></b></td>
-            <td colspan=3><b>Our initial flier</b></td>
-  </tr>
-  <tr>      <td colspan=1>Uploaded January 18, 2025</td>
-            <td colspan=3><b><center><a href="https://docs.google.com/document/d/120lc0sZXg5ZD3HdlwYwINzLZiCK0KDRVy-A0B8K20Ws/edit?tab=t.0">Sign Up</a></center></b></td>
-            <td colspan=3><b>Include your email in our list </b></td>
-  </tr>
+  <tr><td><center><B>Sign up</B></center></td></tr>
+  <tr><td><center><B>Email:</B> stathisleon@gmail.com with subject <B>Chant Class</B> </center></td></tr>
 </table>
 </center>
 
