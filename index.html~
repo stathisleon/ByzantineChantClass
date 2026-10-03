@@ -19,7 +19,6 @@ background-image: url('images/chant_class_background.jpg');
   <!--<IMG src="https://stathisleon.github.io/ByzantineChant/images/TITLE.png"></IMG>-->
   <center><IMG src="images/TITLE.png" style="max-width: 150%;"></IMG></center>
 
-<B>Calendar of events:</B> <a href="https://stathisleon.github.io/chant_calendar_2026_june.html">June 2026</a> 
 
 <BR><BR>
 
@@ -27,7 +26,13 @@ background-image: url('images/chant_class_background.jpg');
 
 <table border="0" style="width:70%;">
 <tr>
+<td width=200></td>
 <td width=400>
+<B>Calendar of events:</B> <a href="https://stathisleon.github.io/chant_calendar_2026_june.html">June 2026</a> 
+
+<BR>
+<BR>
+
 <table border="1" style="width:100%;border:solid black;">
   <tr><td><center><B>Sign up</B></center></td></tr>
   <tr><td><center>Email: <B>stathisleon@gmail.com</B> with subject Chant Class </center></td></tr>
@@ -66,7 +71,7 @@ background-image: url('images/chant_class_background.jpg');
   </table>
 
 </td>
-<td width=500></td>
+<td width=300></td>
 </tr>
 </table>
 
